@@ -1,4 +1,4 @@
-£Example Repo
+#Example Repo
 
 This repository contains code files for the tasks I have completed on the data science course up until this point.
 
@@ -6,4 +6,8 @@ This repository contains code files for the tasks I have completed on the data s
 Hyperion
 
 #Description
-This project is a documentation of my learning on this course up until this point.
+This project is a documentation of my learning on this course up until this point
+#example-repo
+
+This project contains my previous code for the bootcamp tasks I have completed so far.
+
